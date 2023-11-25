@@ -1,4 +1,4 @@
-## FuelFinder: Optimizing Pit Stops for Efficient Road Trips
+# FUELFINDER: OPTIMIZING PIT STOPS FOR EFFICIENT ROAD TRIPS
 
 ## PRODUCT MISSION
 Provide road drivers all around the world with an easy-to-use application that prevents them from running out of fuel by planning and optimizing their number of refill stops with the highest rated gas stations on the way, when travelling between two cities.
