@@ -1,12 +1,12 @@
 # FUELFINDER: OPTIMIZING PIT STOPS FOR EFFICIENT ROAD TRIPS
 
-## PRODUCT MISSION
+## Product Mission
 Provide road drivers all around the world with an easy-to-use application that prevents them from running out of fuel by planning and optimizing their number of refill stops with the highest rated gas stations on the way, when travelling between two cities.
 
-## USERS
+## Users
 Road vehicles drivers in general: this includes particular drivers, bus drivers, truck drivers, motorbike drivers...
 
-## USER STORIES
+## User Stories
 1. I, any driver, want the option to input my own travelling parameters (origin, destination, fuel consume...).
 2. I, any driver, want to make sure that I do not run out of fuel in the middle of my trip.
 3. I, any driver, want to stop in the highest rated available gas stations.
@@ -39,3 +39,15 @@ Install the following library before usage:
   pip install googlemaps
   ```
 Make sure to replace the Google Maps API key on the app code before running it.
+
+## Results
+
+Here are some simulations of the application for different cases.
+
+1. Regular travel where several stops are needed.
+
+ 
+
+2. Short travel where no stops are needed.
+
+3. Unfeasible travel by car.
