@@ -46,8 +46,16 @@ Here are some simulations of the application for different cases.
 
 1. Regular travel where several stops are needed.
 
- 
 
-2. Short travel where no stops are needed.
+ ![Alt text](https://github.com/iperezgamiz/ProductDesignECE/blob/main/Project2/proj2_im1.PNG)
 
-3. Unfeasible travel by car.
+
+3. Short travel where no stops are needed.
+
+![Alt text](https://github.com/iperezgamiz/ProductDesignECE/blob/main/Project2/proj2_im2.PNG)
+
+
+5. Unfeasible travel by car.
+
+![Alt text](https://github.com/iperezgamiz/ProductDesignECE/blob/main/Project2/proj2_im3.PNG)
+
